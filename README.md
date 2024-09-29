@@ -1,5 +1,3 @@
-# Let's create a README.md file for the user based on the provided project description and code snippets.
-readme_content = """
 # Time Series Analysis of Agricultural Dataset
 
 ## Project Description
