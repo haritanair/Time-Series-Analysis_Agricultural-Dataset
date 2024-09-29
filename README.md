@@ -1,4 +1,4 @@
-# Time Series Analysis of Agricultural Dataset
+# Time Series Analysis and Forecasting on Indian Agricultural Productivity
 
 ## Project Description
 This project focuses on modeling and forecasting crop yields based on crop-wise, season-wise, state-wise, and year-wise data. The objective is to provide insights into agricultural productivity and aid farmers, agronomists, and policymakers in making data-driven decisions.
