@@ -24,7 +24,7 @@ This dataset encompasses agricultural data for multiple crops cultivated across 
 9. **Pesticide**: The total amount of pesticide used for the crop (in kilograms).
 10. **Yield**: The calculated crop yield (metric tons per hectare).
 
-Please ensure that the dataset is placed in the `data/` directory.
+Please note that the dataset is placed in the `data/` directory.
 
 ## Objectives
 1. **Yield Modeling and Forecasting**: 
